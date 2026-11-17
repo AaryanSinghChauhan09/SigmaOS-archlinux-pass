@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-pass"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-pass component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
